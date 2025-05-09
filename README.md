@@ -2,7 +2,7 @@
 tools  to help you unpack (extract files from alldata.bin to archives folder ) and repack (create new alldata.bin from archives folder)  , likely from the Metal Gear Solid Master Collection
 
 
-**II. How to Unpack a .bin Archive (Extract Files)**
+**I. How to Unpack a .bin Archive (Extract Files)**
 
 1.  **Locate `MGS-Unpaking.bat`.
 2.  **Drag and Drop:**
@@ -15,7 +15,7 @@ tools  to help you unpack (extract files from alldata.bin to archives folder ) a
         *   Input File: The `.bin` file you dropped.
         *   Output Folder: A new folder that will be created in the *same directory as your input .bin file*. The folder will be named `[original_filename_without_extension]_extracted` (e.g., if you dropped `some_game_archive.bin`, the output folder will be `some_game_archive_extracted`).
      
-**III. How to Repack a Folder into a .bin Archive**
+**II. How to Repack a Folder into a .bin Archive**
 
 1.  **Prepare Your Folder:**
     *   This will typically be a folder that was previously extracted using `MGS-Unpaking.bat` (e.g., `some_game_archive_extracted`), especially if you've modified some files within it.
